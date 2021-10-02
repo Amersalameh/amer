@@ -1,0 +1,3 @@
+import os
+os.syste("clear")
+print ("hello Amer Salameh I love You")
